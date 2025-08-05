@@ -1,0 +1,9 @@
+Student Portal Application
+Name
+Course
+Section
+Phone Number
+SUC No
+Roll Number
+Email Id
+Address
